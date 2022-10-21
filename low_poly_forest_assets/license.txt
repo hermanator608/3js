@@ -1,0 +1,11 @@
+Model Information:
+* title:	low poly forest assets
+* source:	https://sketchfab.com/3d-models/low-poly-forest-assets-edb4369db3434fdeb7e6148ed1e422e5
+* author:	Konstantin_Keller (https://sketchfab.com/Konstantin_Keller)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "low poly forest assets" (https://sketchfab.com/3d-models/low-poly-forest-assets-edb4369db3434fdeb7e6148ed1e422e5) by Konstantin_Keller (https://sketchfab.com/Konstantin_Keller) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
